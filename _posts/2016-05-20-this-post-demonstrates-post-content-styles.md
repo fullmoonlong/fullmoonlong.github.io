@@ -1,7 +1,7 @@
 ---
 layout: post
 toc: true
-title: "This post demonstrates post content styles"
+title: "Second Game"
 categories: junk
 tags: [markdown, css, html]
 author:
